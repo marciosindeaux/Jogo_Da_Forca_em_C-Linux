@@ -7,6 +7,6 @@ Como rodar :<br>
   <br>&emsp;&emsp;2)Execute os seguntes comandos :<br> 
          <br> &emsp;&emsp;&emsp;&emsp;1&emsp;  -&emsp;  gcc forca.c -o forca.out
          <br> &emsp;&emsp;&emsp;&emsp;2&emsp;  -&emsp;  ./forca.out<br>
- <br><br>Qulquer bug encontrado, favor contactar o desenvolvedor.<br>
+ <br><br>Qualquer bug encontrado, favor contactar o desenvolvedor.<br>
           &emsp;&emsp;Email : <b>sindeaux1999@hotmail.com</b>
           
